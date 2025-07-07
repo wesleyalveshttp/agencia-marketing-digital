@@ -217,7 +217,7 @@ Enviado através do site da AgênciaMax
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900">E-mail</h3>
-                      <p className="text-gray-600">contato@agenciamax.com.br</p>
+                      <p className="text-gray-600">agenciamax36@gmail.com</p>
                     </div>
                   </div>
 
