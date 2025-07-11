@@ -19,7 +19,7 @@ export default function CTA() {
   }
 
   const handlePhoneCall = () => {
-    window.open("tel:+5583999054590", "_self")
+    window.open("tel:+5583998293768", "_self")
   }
 
   return (
