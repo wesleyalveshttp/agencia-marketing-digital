@@ -71,7 +71,7 @@ export default function CTA() {
             <p className="text-sm opacity-80">
               Ou ligue agora:
               <button onClick={handlePhoneCall} className="font-semibold hover:underline ml-1">
-                (83) 99905-4590
+                (83) 99829-3768
               </button>
             </p>
           </div>
