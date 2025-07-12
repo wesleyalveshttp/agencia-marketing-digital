@@ -43,7 +43,7 @@ Enviado através do site da AgênciaMax
     const encodedMessage = encodeURIComponent(whatsappMessage)
 
     // Redirecionar para WhatsApp
-    const whatsappURL = `https://wa.me/5583999054590?text=${encodedMessage}`
+    const whatsappURL = `https://wa.me/5583998293768?text=${encodedMessage}`
     window.open(whatsappURL, "_blank")
 
     // Limpar formulário
@@ -207,7 +207,7 @@ Enviado através do site da AgênciaMax
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900">Telefone</h3>
-                      <p className="text-gray-600">(83) 99905-4590</p>
+                      <p className="text-gray-600">(83) 99829-3768</p>
                     </div>
                   </div>
 
@@ -246,12 +246,12 @@ Enviado através do site da AgênciaMax
                   className="bg-white text-purple-600 hover:bg-gray-100 w-full"
                   onClick={() =>
                     window.open(
-                      "https://wa.me/5583999054590?text=Olá! Gostaria de saber mais sobre os serviços da AgênciaMax.",
+                      "https://wa.me/5583998293768?text=Olá! Gostaria de saber mais sobre os serviços da AgênciaMax.",
                       "_blank",
                     )
                   }
                 >
-                  WhatsApp: (83) 99905-4590
+                  WhatsApp: (83) 99829-3768
                 </Button>
               </CardContent>
             </Card>
